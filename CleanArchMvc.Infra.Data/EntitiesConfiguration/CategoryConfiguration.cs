@@ -12,7 +12,7 @@ namespace CleanArchMvc.Infra.Data.EntitiesConfiguration
 
             builder.HasData
                 (
-                new Category(1, "Materiail Escolar"),
+                new Category(1, "Material Escolar"),
                 new Category(2,"Material Construcao"),
                 new Category(3,"Eletronicos")
                 );
